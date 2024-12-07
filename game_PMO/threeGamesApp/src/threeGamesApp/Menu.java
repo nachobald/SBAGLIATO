@@ -63,5 +63,7 @@ public class Menu {
 
         // Visualizzazione della finestra del gioco
         gameFrame.setVisible(true);
+        
+        // Prova del commit
     }
 }
