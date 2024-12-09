@@ -7,7 +7,9 @@ import java.awt.event.ActionListener;
 
 public class Menu {
     public static void main(String[] args) {
-        
+    
+        // PROVA COMMIT 
+
     	// Creazione della finestra principale
         JFrame mainFrame = new JFrame("Games Menu");
         mainFrame.setExtendedState(JFrame.MAXIMIZED_BOTH);
